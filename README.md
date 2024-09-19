@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **computer science**
 
-- 📝 I regularly write articles on [PS code & Class content](PS code & Class content)
+- 📝 I regularly write articles on PS code & Class content
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: discord #rin5991</h3>
 <p align="left">
 </p>
 
