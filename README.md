@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 9rin</h1>
-<h3 align="center">A Student from Korea</h3>
+<h3 align="center">이화여자대학교 컴퓨터공학과 2학년</h3>
 
 - 🌱 I’m currently learning **computer science**
 
