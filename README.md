@@ -9,7 +9,7 @@
 </p>
 
 ![Solved.ac youdid](http://mazassumnida.wtf/api/v2/generate_badge?boj=youdid)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=youdid&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=youdid&theme=warm)
 </p>
 </p>
 
