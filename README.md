@@ -1,40 +1,29 @@
-<h1 align="left">Hello World!</h1>
-<h5 align="left">이화여자대학교 컴퓨터공학과</h5>
+# Hello World!
 
-- 🌱 I’m currently learning **computer science**
-
-- 📝 I regularly write articles on PS code & Class content
-
-<p align="left">
-</p>
-
-![Solved.ac youdid](http://mazassumnida.wtf/api/v2/generate_badge?boj=youdid)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=youdid&theme=warm)
-</p>
-</p>
-
-#### 📚 Learning alone
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-
-</p>
-
-#### 🏫 Lerning it from a college lecture
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+### About me
+- 🏫 이화여자대학교 컴퓨터공학과 
+- 📝 주로 **알고리즘 문제 풀이(PS) 코드** 업로드
+- 💻 중앙 컴퓨터 동아리 **ECC 48기** SS/FW (2023.03 ~ 2024.02)
+- 👩‍💻 알고리즘 동아리 **EDOC 16기** (2023.09~ 2024.08)
 
 
-</p>
+<h1></h1>
 
-#### 🔩 Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Pycharm](https://img.shields.io/badge/Pycharm-00000.svg?&style=for-the-badge&logo=Pycharm&logoColor=white)
-</p>
+### 🎖 Algorithm & Problem Solving Stats
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youdid)
+![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=youdid&theme=warm)
 
+<h1></h1>
+
+### 👾 Languages
+[![My Skills](https://skillicons.dev/icons?i=py,java,c&theme=light)](https://skillicons.dev)
+
+
+### 🌱 Self-learning
+[![My Skills](https://skillicons.dev/icons?i=spring,html,css,js&theme=light)](https://skillicons.dev)
+
+### 🔩 Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,eclipse,figma,notion,git&theme=light)](https://skillicons.dev)
 
 
 
