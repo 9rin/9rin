@@ -1,5 +1,5 @@
-<h1 align="left">9rin Kim</h1>
-<h4 align="left"> A Student from Korea</h4>
+<h1 align="left">Hello World!</h1>
+<h5 align="left">이화여자대학교 컴퓨터공학과</h5>
 
 - 🌱 I’m currently learning **computer science**
 
@@ -9,6 +9,7 @@
 </p>
 
 ![Solved.ac youdid](http://mazassumnida.wtf/api/v2/generate_badge?boj=youdid)
+<img src="http://mazandi.herokuapp.com/api?handle={youdid}&theme=cold"/>
 </p>
 </p>
 
