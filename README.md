@@ -11,7 +11,6 @@
 
 ### 🎖 Algorithm & Problem Solving
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youdid)
-![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=youdid&theme=warm)
 
 <h1></h1>
 
