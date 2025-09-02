@@ -10,7 +10,7 @@
 <h1></h1>
 
 ### 🎖 Algorithm & Problem Solving
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youdid)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=youdid)
 
 <h1></h1>
 
