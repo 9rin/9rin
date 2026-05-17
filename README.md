@@ -1,8 +1,5 @@
 # Hello World!
 
-### 🎖 Algorithm & Problem Solving
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=youdid)
-
 <h1></h1>
 
 ### 👾 Languages
